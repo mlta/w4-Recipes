@@ -1,0 +1,16 @@
+.RecipeContainer {
+  width: 20em;
+  height: 20em;
+  text-align: center;
+  margin: 4em;
+}
+
+.RecipeBox {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 10em;
+  height: 10em;
+}
